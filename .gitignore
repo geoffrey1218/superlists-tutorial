@@ -4,6 +4,6 @@ virtualenv/
 __pycache__/
 *.pyc
 .vscode/
-static/
+/static
 .env
 functional_tests/screendumps
